@@ -1,3 +1,4 @@
+![logo](https://github.com/SAJID2090/Sajid-Wazir/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Sajid Wazir</h1>
 <h3 align="center">Creating Impacting on EdTech</h3>
 

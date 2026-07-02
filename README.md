@@ -26,7 +26,7 @@
 <a href="https://www.linkedin.com/in/sajid-wazir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajid wazir" height="30" width="40" /></a>
 <a href="https://fb.com/sajid.wazir.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sajid.wazir.3" height="30" width="40" /></a>
 <a href="https://instagram.com/sajidwaziir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajidwaziir" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sajidwaziir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sajid_wazir" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@sajidwaziir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sajid_wazir" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

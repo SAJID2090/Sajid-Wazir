@@ -16,11 +16,11 @@
 
 - 👨‍💻 All of my projects are available at [https://www.researchgate.net/profile/Sajid-Wazir](https://www.researchgate.net/profile/Sajid-Wazir)
 
-- 📝 I regularly write articles on [https://orcid.org/0009-0002-1223-9855](https://orcid.org/0009-0002-1223-9855)
+- 📝 I regularly write articles on [https://orcid.org/0009-0008-9843-6131)
 
 - 💬 Ask me about **Sports and GK**
 
-- 📫 How to reach me **sajidwazir10@gmail.com**
+- 📫 How to reach me **sajidwazir10atgmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sajid-wazir-485a71141/](https://www.linkedin.com/in/sajid-wazir-485a71141/)
 

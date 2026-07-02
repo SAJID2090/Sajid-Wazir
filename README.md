@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on 360 content creation through UmakeVR tool **360 Content Creation for EdTech**
 
-- 🌱 I’m currently learning **SQL, Figma, Canva, German, Polish**
+- 🌱 I’m currently learning **Python, C#, Unity3D, Blender, SQL, Figma, Canva, Chinese**
 
 - 👨‍💻 All of my projects are available at [https://www.researchgate.net/profile/Sajid-Wazir](https://www.researchgate.net/profile/Sajid-Wazir)
 
